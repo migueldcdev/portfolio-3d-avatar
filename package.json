@@ -1,0 +1,24 @@
+{
+  "name": "3d-avatar",
+  "version": "1.0.0",
+  "description": "3D developer setup avatar for portfolio site",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migueldcdev/portfolio-3d-avatar.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.183.2"
+  },
+  "devDependencies": {
+    "@types/three": "^0.183.1",
+    "typescript": "^5.9.3",
+    "vite": "^8.0.0"
+  }
+}
